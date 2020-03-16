@@ -12,7 +12,9 @@
 ![alt text](https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/main%20menu.PNG)
 
 The manual control mode:
+
 ![alt text](https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/manual%20control.PNG)
 
 The line follower mode:
+
 ![alt text](https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/line%20follower.PNG)
