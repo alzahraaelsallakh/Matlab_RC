@@ -20,7 +20,7 @@ The manual control mode:
 
 The line follower mode:
  <p align="center">
-  <img  src="https://drive.google.com/open?id=1eGfEzqGEmT62261StFDRje1QjrHYDs69">
+  <img  src="https://drive.google.com/file/d/1eGfEzqGEmT62261StFDRje1QjrHYDs69/view">
 </p>
 
 ## Hardware connections:
