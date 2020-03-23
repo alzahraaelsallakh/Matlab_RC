@@ -10,7 +10,7 @@
  The main script and the project entry is "chooseMode" which has 2 buttons, one for each operation as follow
  
  <p align="center">
-  <img  src="../images/main menu.PNG?raw=true">
+  <img  src="../media/main menu.PNG?raw=true">
 </p>
  
 The manual control mode:
