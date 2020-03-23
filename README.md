@@ -9,12 +9,25 @@
  
  The main script and the project entry is "chooseMode" which has 2 buttons, one for each operation as follow
  
-![alt text](https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/main%20menu.PNG)
-
+ <p align="center">
+  <img width="460" height="300" src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/main%20menu.PNG">
+</p>
+ 
 The manual control mode:
-
-![alt text](https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/manual%20control.PNG)
+ <p align="center">
+  <img width="460" height="300" src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/manual%20control.PNG">
+</p>
 
 The line follower mode:
+ <p align="center">
+  <img width="460" height="300" src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/line%20follower.PNG">
+</p>
 
-![alt text](https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/line%20follower.PNG)
+## Hardware connections:
+1) Forward right motor -> pin 10
+2) Backward right motor -> pin 11
+3) Forward left motor -> pin 8
+4) Backward left motor -> pin 9
+5) Right IR -> pin 3
+6) Left IR -> pin 4
+7) Center IR -> pin 5
