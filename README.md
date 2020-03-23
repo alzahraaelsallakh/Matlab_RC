@@ -10,17 +10,17 @@
  The main script and the project entry is "chooseMode" which has 2 buttons, one for each operation as follow
  
  <p align="center">
-  <img width="460" height="300" src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/main%20menu.PNG">
+  <img  src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/main%20menu.PNG">
 </p>
  
 The manual control mode:
  <p align="center">
-  <img width="460" height="300" src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/manual%20control.PNG">
+  <img  src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/manual%20control.PNG">
 </p>
 
 The line follower mode:
  <p align="center">
-  <img width="460" height="300" src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/line%20follower.PNG">
+  <img  src="https://github.com/alzahraaelsallakh/Matlab_RC/blob/master/Figures/line%20follower.PNG">
 </p>
 
 ## Hardware connections:
