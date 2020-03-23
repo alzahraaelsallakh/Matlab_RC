@@ -14,11 +14,13 @@
 </p>
  
 The manual control mode:
-
+ <p align="center">
+  <img  src="../media/manual control.PNG?raw=true">
+</p>
 
 The line follower mode:
  <p align="center">
-  <img  src="https://drive.google.com/file/d/1eGfEzqGEmT62261StFDRje1QjrHYDs69/view">
+  <img  src="../media/line follower.PNG?raw=true">
 </p>
 
 ## Hardware connections:
