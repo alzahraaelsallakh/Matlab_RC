@@ -10,13 +10,11 @@
  The main script and the project entry is "chooseMode" which has 2 buttons, one for each operation as follow
  
  <p align="center">
-  <img  src="https://drive.google.com/open?id=1aBbYTJW1A6QJbu8NGQI5jdKmay3qGLGs">
+  <img  src="../images/main menu.PNG?raw=true">
 </p>
  
 The manual control mode:
- <p align="center">
-  <img  src="https://drive.google.com/open?id=1Nl7_fNkDYWFmQy6oiL_0n7rtt_0JRlT0">
-</p>
+
 
 The line follower mode:
  <p align="center">
